@@ -1,0 +1,42 @@
+
+
+body {
+  padding: 3em;
+  background-color:#7d6151 ;
+  
+}
+
+.heading{
+  text-align: center;
+  padding-bottom: 0.75em;
+}
+.wrap{
+  padding: 3em;
+  border-radius:1em;
+  background-color:#090205;
+  color: #ca7940;
+
+}
+
+.info{
+  padding: 3em;
+}
+.img{
+    padding-left: 6em;
+   }
+h2 {
+  text-align: center;
+}
+h3 {
+  background-color: #7d6151;
+  color: #0a050b;
+  padding: 0.75em;
+  text-align: center;
+  border-radius: 0.4em;
+}
+p {
+  margin-top: 1.5em;
+  width: 75%;
+  height: auto;
+  margin: 0 auto;
+}
