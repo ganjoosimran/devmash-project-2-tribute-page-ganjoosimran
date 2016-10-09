@@ -1,9 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|Montserrat+Alternates);
 
 
-body {
+.page{
   padding: 3em;
   background-color:#7d6151 ;
-  
+ 
 }
 
 .heading{
@@ -15,11 +16,15 @@ body {
   border-radius:1em;
   background-color:#090205;
   color: #ca7940;
+  font-family: 'Montserrat Alternates', Sans-Serif;
 
 }
 
 .info{
   padding: 3em;
+  font-style: italic;
+  font-size: 1.2em;
+  font-family: 'Montserrat Alternates', Sans-Serif;
 }
 .img{
     padding-left: 6em;
@@ -39,4 +44,4 @@ p {
   width: 75%;
   height: auto;
   margin: 0 auto;
-}
+}z
